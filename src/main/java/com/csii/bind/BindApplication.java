@@ -13,18 +13,7 @@ public class BindApplication {
    public void getaa(){
        System.out.print("new ");
    }
-    public void addlisi(){
-        System.out.print(" ");
-    }
-    public void addlisi2(){
-        System.out.print(" ");
-    }
-
-    public void addw4(){
-        System.out.print(" ");
-    }
-
-    public void addlisi3(){
+    public void delww(){
         System.out.print(" ");
     }
 
