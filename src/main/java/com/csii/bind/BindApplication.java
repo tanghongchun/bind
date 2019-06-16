@@ -13,15 +13,10 @@ public class BindApplication {
    public void getaa(){
        System.out.print("new ");
    }
-    public void addlisi(){
+    public void dellisi(){
         System.out.print(" ");
     }
-    public void addlisi2(){
-        System.out.print(" ");
-    }
-    public void addlisi3(){
-        System.out.print(" ");
-    }
+
 
 
 
