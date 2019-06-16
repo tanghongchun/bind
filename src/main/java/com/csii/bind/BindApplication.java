@@ -16,7 +16,7 @@ public class BindApplication {
     public void dellisi2888(){
         System.out.print(" ");
     }
-    public void delww699(){
+    public void delww699gggg(){
         System.out.print(" ");
     }
 }
