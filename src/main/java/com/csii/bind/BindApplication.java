@@ -10,6 +10,9 @@ public class BindApplication {
        System.out.println("我是李四2");
        SpringApplication.run(BindApplication.class,args);
    }
+   public void getaa(){
+       System.out.print("new ");
+   }
 
     
 }
