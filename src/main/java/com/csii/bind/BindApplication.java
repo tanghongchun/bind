@@ -19,7 +19,12 @@ public class BindApplication {
     public void addlisi2(){
         System.out.print(" ");
     }
+
     public void addw4(){
+        System.out.print(" ");
+    }
+
+    public void addlisi3(){
         System.out.print(" ");
     }
 
