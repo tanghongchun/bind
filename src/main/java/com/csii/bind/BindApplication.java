@@ -16,6 +16,11 @@ public class BindApplication {
     public void addlisi(){
         System.out.print(" ");
     }
+    public void addlisi2(){
+        System.out.print(" ");
+    }
+
+
 
     
 }
