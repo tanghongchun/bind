@@ -13,7 +13,7 @@ public class BindApplication {
    public void getaa(){
        System.out.print("new ");
    }
-    public void delww2(){
+    public void delww6(){
         System.out.print(" ");
     }
 }
