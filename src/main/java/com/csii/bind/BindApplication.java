@@ -16,7 +16,4 @@ public class BindApplication {
     public void delww(){
         System.out.print(" ");
     }
-
-
-    
 }
