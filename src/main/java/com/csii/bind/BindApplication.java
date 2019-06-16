@@ -13,6 +13,9 @@ public class BindApplication {
    public void getaa(){
        System.out.print("new ");
    }
+    public void addlisi(){
+        System.out.print(" ");
+    }
 
     
 }
