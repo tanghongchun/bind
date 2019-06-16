@@ -12,6 +12,8 @@ public class BindController {
      @Autowired
      private RestTemplate restTemplate;
 
+     private String s="wangwu";
+
      @RequestMapping("/bind/getList")
      public String getList(){
            List arr=new ArrayList();
